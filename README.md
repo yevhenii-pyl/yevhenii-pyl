@@ -1,6 +1,6 @@
 <h1> Hi there!👋 </h1>
 
-I'm Yevhenii from Ukraine, and I'm a self-taught web developer. I enjoy learning and strive for professional development.
+I'm Yevhenii from Ukraine and I'm a self-taught web developer. I enjoy learning and strive for professional development.
 
 - 🔭 I’m currently working on portfolio projects. 
 - 🌱 I’m currently learning  React.js and React Native.
