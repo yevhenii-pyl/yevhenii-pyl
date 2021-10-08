@@ -1,9 +1,9 @@
 <h1> Hi there!👋 </h1>
 
-I'm Yevhenii from Ukraine and I'm a self-taught web developer. I enjoy learning and strive for professional development.
+I'm a front-end focused web developer with full stack experience. 
 
 - 🔭 I’m currently working at GlobalLogic. 
-- 🌱 I’m currently woeking with NextJS, MaterialUI, TypeScript and React Native.
+- 🌱 I’m currently working with NextJS, MaterialUI, TypeScript, Express and PostgreSQL.
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/yevhenii-p-b98638128/) or [Facebook Profile](https://www.facebook.com/yevhenii.pyl/).
 
 <h2> Skills and Experience </h2>
